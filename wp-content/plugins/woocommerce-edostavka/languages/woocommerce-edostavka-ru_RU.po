@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce edostavka\n"
+"POT-Creation-Date: 2021-06-21 13:05+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Maksim <maksim@martirosoff.ru>\n"
+"Language-Team: Woodev <info@woodev.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:61
+#: includes/class-wc-edostavka-checkout.php:135
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:62
+#: includes/class-wc-edostavka-checkout.php:136
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:63
+#: includes/class-wc-edostavka-checkout.php:137
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:64
+#: includes/class-wc-edostavka-checkout.php:138
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:65
+#: includes/class-wc-edostavka-checkout.php:139
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:66
+#: includes/class-wc-edostavka-checkout.php:140
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:67
+#: includes/class-wc-edostavka-checkout.php:141
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:68
+#: includes/class-wc-edostavka-checkout.php:142
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:69
+#: includes/class-wc-edostavka-checkout.php:143
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr ""
+
+#: includes/admin/class-wc-edostavka-admin-setup-wizard.php:70
+#: includes/class-wc-edostavka-checkout.php:144
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr ""
+
+#: includes/class-wc-edostavka-checkout.php:107
+msgid "Enter text for find pick-up point"
+msgstr "Введите текст для поиска ПВЗ"
+
+#: includes/class-wc-edostavka-checkout.php:108
+#: includes/class-wc-edostavka-checkout.php:263
+#: includes/class-wc-edostavka-checkout.php:340
+msgid "Select city"
+msgstr "Выбрать город"
+
+#: includes/class-wc-edostavka-checkout.php:109
+msgid "Enter name of city"
+msgstr "Введите названия населённого пункта"
+
+#: includes/class-wc-edostavka-checkout.php:249
+msgid "State / County"
+msgstr ""
+
+#: includes/class-wc-edostavka-checkout.php:255
+msgid "City ID"
+msgstr "ID города"
+
+#: includes/class-wc-edostavka-checkout.php:262
+msgid "Town / City"
+msgstr ""
+
+#: includes/class-wc-edostavka-checkout.php:276
+#: includes/class-wc-edostavka-checkout.php:406
+msgid "Pick-up points"
+msgstr "Пункты выдачи заказов"
+
+#: includes/class-wc-edostavka-checkout.php:290
+msgid "Address to the door"
+msgstr "Адрес до двери"
+
+#: includes/class-wc-edostavka-checkout.php:304
+#: includes/class-wc-edostavka-checkout.php:432
+msgid "Pick-up point address"
+msgstr "Адрес пункта выдачи"
+
+#: includes/class-wc-edostavka-checkout.php:310
+#: includes/class-wc-edostavka-checkout.php:433
+msgid "Select Pick-up point on the map. Address will be filled automatically."
+msgstr "Выберите ПВЗ на карте. Адрес подставится автоматически."
+
+#: includes/class-wc-edostavka-checkout.php:522
+msgid ""
+"To continue with your order, please <strong>fill your address</strong> "
+"correctly."
+msgstr ""
+"Для продолжения оформления заказа, пожалуйста <strong>укажите ваш адрес</"
+"strong> правильно."
+
+#: includes/class-wc-edostavka-checkout.php:531
+msgid ""
+"To continue with your order, please <strong>choose pick-up point</strong>."
+msgstr ""
+"Для продолжения оформления заказа, пожалуйста <strong>выберите пункт выдачи</"
+"strong>."
+
+#: includes/class-wc-edostavka-checkout.php:552
+#: templates/html-modal-map.php:16
+msgid "Choose Pick-up point"
+msgstr "Выбрать пункт выдачи"
+
+#: includes/class-wc-edostavka-checkout.php:562
+msgid "Chosen pick-up point"
+msgstr "Выбранный пункт выдачи"
+
+#: includes/class-wc-edostavka-checkout.php:563
+msgid "Choose another pickpoint"
+msgstr "Выбрать другой ПВЗ"
+
+#: includes/class-wc-edostavka-checkout.php:571
+msgid "Pick-up point of CDEK"
+msgstr "Пункт выдачи СДЭК"
+
+#: includes/class-wc-edostavka-integration.php:97
+msgid "Permission denied!"
+msgstr "Доступ запрещен"
+
+#: includes/class-wc-edostavka-integration.php:121
+msgid "Invalid request!"
+msgstr "Неверный запрос!"
+
+#: includes/class-wc-edostavka-integration.php:473
+#, php-format
+msgid ""
+"<p>Все логи будут записаны в <code>%s</code>.</p><p>Посмотреть логи можно на "
+"<a href=\"%s\">странице отчётов</a></p>"
+msgstr ""
+
+#: includes/wc-edostavka-functions.php:202
+msgid "Select Pick-up point"
+msgstr "Выбрать пункт выдачи"
+
+#: includes/wc-edostavka-functions.php:203
+msgid "--Select Pick-up point--"
+msgstr "--Выбрать пункт выдачи--"
+
+#: includes/wc-edostavka-functions.php:319
+msgid "Tracking code added"
+msgstr "Код отслеживания добавлен"
+
+#: includes/wc-edostavka-functions.php:332
+msgid "Tracking code deleted"
+msgstr "Код отслеживания удалён"
+
+#: includes/wc-edostavka-functions.php:441
+#: includes/wc-edostavka-functions.php:461
+#, php-format
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+#: templates/emails/edostavka-tracking-code.php:12
+msgid "More details of your order is below."
+msgstr "Для информации детали вашего заказа представлены ниже"
+
+#: templates/emails/plain/edostavka-tracking-code.php:11
+msgid "More details of your order is below"
+msgstr "Для информации детали вашего заказа представлены ниже"
+
+#: templates/html-modal-map.php:18
+msgid "Close"
+msgstr "Закрыть"
+
+#: templates/html-modal-map.php:40
+msgid "Pay by Card"
+msgstr "Оплата картой"
+
+#: templates/html-modal-map.php:41
+msgid "Pay by Cash"
+msgstr "Оплата наличными"
+
+#: templates/html-modal-map.php:42
+msgid "Prepay only"
+msgstr "Только предоплата"
+
+#: templates/html-modal-map.php:46
+msgid "Fitting room available"
+msgstr "Наличие примерочной"
+
+#: templates/html-modal-map.php:50
+msgid "Pick-up here"
+msgstr "Забрать здесь"
+
+#: templates/html-modal-map.php:51
+msgid "Continue checkout"
+msgstr "Продолжить оформление заказа"
+
+#: templates/myaccount/tracking-codes.php:8
+msgid "Delivery tracking code"
+msgstr "Код отслеживания доставки"
+
+#: templates/myaccount/tracking-codes.php:13
+msgid "Code"
+msgstr "Код"
+
+#: templates/myaccount/tracking-codes.php:22
+msgid "View status"
+msgstr "Посмотреть статус"
+
+#: templates/myaccount/tracking-history-table.php:15
+msgid "Transaction history"
+msgstr "История транзакции доставки"
+
+#: templates/myaccount/tracking-history-table.php:20
+msgid "Date"
+msgstr "Дата"
+
+#: templates/myaccount/tracking-history-table.php:21
+msgid "Location"
+msgstr "Местонахождение"
+
+#: templates/myaccount/tracking-history-table.php:22
+msgid "Status"
+msgstr "Статус"
+
+#: templates/myaccount/tracking-history-table.php:40
+msgid "View on CDEK website"
+msgstr "Посмотреть на сайте СДЭК"
+
+#~ msgid "Dressroom exist"
+#~ msgstr "Наличие примерчной"

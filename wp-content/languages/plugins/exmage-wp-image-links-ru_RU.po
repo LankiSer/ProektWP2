@@ -1,0 +1,217 @@
+# Translation of Plugins - EXMAGE &#8211; WordPress Image Links - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - EXMAGE &#8211; WordPress Image Links - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-27 08:00:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - EXMAGE &#8211; WordPress Image Links - Development (trunk)\n"
+
+#: includes/support.php:801
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/support.php:757
+msgid "What did you expect?"
+msgstr "Что вы ожидали?"
+
+#: includes/support.php:743
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: includes/support.php:755
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не работал как ожидалось"
+
+#: includes/support.php:749
+msgid "It's not what I was looking for"
+msgstr "Это не то, что я искал"
+
+#: includes/support.php:745
+msgid "Could you tell us a bit more whats not working?"
+msgstr "Не могли бы вы рассказать нам немного больше, что не работает?"
+
+#: includes/support.php:731
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: includes/support.php:763
+msgid "Could you tell us a bit more?"
+msgstr "Не могли бы вы рассказать нам немного больше?"
+
+#: includes/support.php:727
+msgid "Would you like us to assist you?"
+msgstr "Хотите, чтобы мы помогли вам?"
+
+#: includes/support.php:733
+msgid "Which plugin?"
+msgstr "Какой плагин?"
+
+#: includes/support.php:799
+msgid "I rather wouldn't say"
+msgstr "Я бы не сказал"
+
+#: includes/support.php:784
+msgid "If you have a moment, please let us know why you are deactivating:"
+msgstr "Если у вас есть возможность, укажите причину удаления:"
+
+#: includes/support.php:761
+msgid "Other"
+msgstr "Прочее"
+
+#: includes/support.php:739
+msgid "Could you tell us more about that feature?"
+msgstr "Не могли бы вы рассказать нам больше об этой функции?"
+
+#: includes/support.php:737
+msgid "The plugin is great, but I need specific feature that you don't support"
+msgstr "Плагин отличный, но мне нужна функция, которой у вас нет"
+
+#: includes/support.php:725
+msgid "I couldn't understand how to make it work"
+msgstr "Я не мог понять, как заставить его заработать"
+
+#: includes/support.php:800
+msgid "Submit & Deactivate"
+msgstr "Отправить и деактивировать"
+
+#: exmage-wp-image-links.php:656
+msgid "Invalid image URL"
+msgstr "Неверный URL изображения"
+
+#: exmage-wp-image-links.php:467
+msgid "Cannot delete file"
+msgstr "Невозможно удалить файл"
+
+#: exmage-wp-image-links.php:473 exmage-wp-image-links.php:537
+msgid "Cannot find external URL"
+msgstr "Не удается найти внешний URL"
+
+#: exmage-wp-image-links.php:540
+msgid "Saved already, please reload the page"
+msgstr "Уже сохранено, пожалуйста, перезагрузите страницу"
+
+#: exmage-wp-image-links.php:345
+msgid "Change this image to use external link. The existing image file stored on your server will be deleted."
+msgstr "Измените это изображение, чтобы использовать внешнюю ссылку. Существующий файл изображения, хранящийся на вашем сервере, будет удален."
+
+#: exmage-wp-image-links.php:367
+msgid "Save this image to your WordPress server like normal images so that it will be editable"
+msgstr "Сохраните это изображение на свой сервер WordPress, как обычные изображения, чтобы его можно было редактировать"
+
+#: exmage-wp-image-links.php:172
+msgid "<a href=\"%s\">Add images from URLs</a>"
+msgstr "<a href=\"%s\">Добавить изображения с URL-адресов</a>"
+
+#: exmage-wp-image-links.php:470 exmage-wp-image-links.php:702
+msgid "Invalid or not supported image URL"
+msgstr "Неверный или неподдерживаемый URL изображения"
+
+#: exmage-wp-image-links.php:698
+msgid "Image exists"
+msgstr "Изображение существует"
+
+#: exmage-wp-image-links.php:879
+msgid "Click here to select this image"
+msgstr "Щелкните здесь, чтобы выбрать это изображение"
+
+#: exmage-wp-image-links.php:287
+msgid "Audio title"
+msgstr "Название аудиозаписи"
+
+#: exmage-wp-image-links.php:307
+msgid "External URL"
+msgstr "Внешний URL"
+
+#: exmage-wp-image-links.php:291
+msgid "Media title&hellip;"
+msgstr "Название мультимедиа&hellip;"
+
+#: exmage-wp-image-links.php:284
+msgid "Video title"
+msgstr "Название видео"
+
+#: exmage-wp-image-links.php:280
+msgid "Caption&hellip;"
+msgstr "Подпись&hellip;"
+
+#: exmage-wp-image-links.php:279
+msgid "Caption"
+msgstr "Подпись"
+
+#: exmage-wp-image-links.php:290
+msgid "Media title"
+msgstr "Название мультимедиа"
+
+#: exmage-wp-image-links.php:288
+msgid "Audio title&hellip;"
+msgstr "Название аудиозаписи&hellip;"
+
+#: exmage-wp-image-links.php:285
+msgid "Video title&hellip;"
+msgstr "Название видео&hellip;"
+
+#: exmage-wp-image-links.php:262
+msgid "Remove"
+msgstr "Убрать"
+
+#: exmage-wp-image-links.php:271
+msgid "This is an external media file"
+msgstr "Это внешний медиафайл"
+
+#. Plugin Name of the plugin
+msgid "EXMAGE - WordPress Image Links"
+msgstr "EXMAGE - WordPress Image Links"
+
+#. Author of the plugin
+msgid "VillaTheme(villatheme.com)"
+msgstr "VillaTheme(villatheme.com)"
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr "https://villatheme.com"
+
+#: exmage-wp-image-links.php:184
+msgctxt "Uploader: Upload file - or - Use an external image URL"
+msgid "or"
+msgstr "или"
+
+#. Description of the plugin
+msgid "Save storage by using external image URLs."
+msgstr "Экономьте место, используя внешние URL-адреса изображений."
+
+#. Plugin URI of the plugin
+msgid "https://villatheme.com/extensions/exmage-wordpress-image-links/"
+msgstr "https://villatheme.com/extensions/exmage-wordpress-image-links/"
+
+#: exmage-wp-image-links.php:186
+msgid "Save storage by using external image URLs(one line each):"
+msgstr "Экономьте место, используя внешние URL-адреса изображений (по одной строке на адрес):"
+
+#: exmage-wp-image-links.php:628
+msgid "No valid image URLs found"
+msgstr "Верные URL-адреса изображений не найдены"
+
+#: exmage-wp-image-links.php:267
+msgid "Deselect"
+msgstr "Снять выделение"
+
+#: exmage-wp-image-links.php:684
+msgid "Successful"
+msgstr "Готово"
+
+#: exmage-wp-image-links.php:186
+msgid "Save storage by using an external image URL(need to add multiple URLs? <a target=\"_blank\" href=\"%s\">Click here</a>):"
+msgstr "Экономьте место, используя внешний URL изображения (нужно добавить несколько URL-адресов? <a target=\"_blank\" href=\"%s\">Щелкните сюда</a>):"
+
+#: exmage-wp-image-links.php:193
+msgid "Add"
+msgstr "Добавить"
+
+#: exmage-wp-image-links.php:199
+msgid "Paste an external image URL here or press Enter after you type to process"
+msgstr "Вставьте URL-адрес внешнего изображения или нажмите Enter после ввода для обработки"

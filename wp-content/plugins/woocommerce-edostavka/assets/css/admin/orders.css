@@ -1,0 +1,5 @@
+.edostavka-tracking-code__action {}
+.edostavka-tracking-code__action > strong {
+	margin-bottom: 10px;
+    display: inline-block;
+}
